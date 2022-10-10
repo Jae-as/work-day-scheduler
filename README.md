@@ -35,4 +35,4 @@ The following animation demonstrates the application functionality:
 ![Image of Filled Workday Scheduler](./images/workday-filled.png)
 
 ## Deployed Application Link
-
+https://jae-as.github.io/work-day-scheduler/
